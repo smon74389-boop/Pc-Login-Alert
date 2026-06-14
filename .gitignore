@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+generate_screenshots.py
+README.txt
